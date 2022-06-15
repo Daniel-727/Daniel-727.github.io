@@ -122,6 +122,11 @@ body{
     padding-top: 25px;
 }
 
+.project a:link, .project a:visited{
+    text-decoration: none;
+    color: #ced4da;
+}
+
 .project-content{
     
     box-shadow: 0 10px 20px rgba(255,255,255,0.2);
